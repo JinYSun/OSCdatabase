@@ -1,5 +1,7 @@
 # OSC-database
 
+The OSC database contains  organic solar cell materials with their SMILES, HOMO, LUMO and device parameters such as open-circuit voltage (VOC), short circuit current (JSC), a fixed fill factor (FF) and PCE were present in the dataset.
+
 The GUI was made to aid the organization and reuse of the OSC database. The SQLite database was integrated in the GUI. The database can be read, updated, deleted by the GUI. Moreover, users can look for target materials and properties by searching their names or source article titles, authors or DOIs in the search box of the GUI. The updated database can be exported as a CSV file, which can be used to explore the relationship between molecular structures, molecular properties and device parameters. GUI has been packaged as user-friendly software that can be downloaded and used directly
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/JinYSun/OSC-database/blob/main/LICENSE)
