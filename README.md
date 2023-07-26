@@ -37,7 +37,7 @@ or directly download the file by clicking on the [url](https://github.com/JinYSu
 
 **Download and Installation the executable(.exe) file**
 
-![download](Fig\download.png)
+![download](Fig/download.png)
 
 
 
@@ -45,7 +45,7 @@ or directly download the file by clicking on the [url](https://github.com/JinYSu
 
 **Overview of the OSC database**
 
-![overview](Fig\overview.jpg)
+![overview](Fig/overview.jpg)
 
 **Query the database according to material name, article title or DOI** 
 Search the exact compound name in "**Exact watch**".
