@@ -49,11 +49,17 @@ or directly download the file by clicking on the [url](https://github.com/JinYSu
 
 **Query the database according to material name, article title or DOI** 
 Search the exact compound name in "**Exact watch**".
+
 Search the element or part of compound name, article title, author name or DOI in "**Generic Watch**"
-Click the "**Home**" button to view the full database
-Click the "**Add**" or "**Insert**" button to add your own data 
-Click the "**Delete**" button to delete the undesired data; 
-Click the "**Cancel**" button to return to previous operation; 
+
+Click the "**Home**" button to view the full database.
+
+Click the "**Add**" or "**Insert**" button to add your own data. 
+
+Click the "**Delete**" button to delete the undesired data.
+
+Click the "**Cancel**" button to return to previous operation.
+
 Click the "**Save**" button to save the changes.
 
 ## Acknowledgement
