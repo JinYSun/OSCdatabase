@@ -23,7 +23,6 @@ Install the required packages:
 ```
 import wget
 url = "https://github.com/JinYSun/OSC-database/releases/download/v1.0.0/OSC.Database.v1.0.0.exe"
-
 ```
 
 Run: 
@@ -48,6 +47,7 @@ or directly download the file by clicking on the [url](https://github.com/JinYSu
 ![overview](Fig/overview.jpg)
 
 **Query the database according to material name, article title or DOI** 
+
 Search the exact compound name in "**Exact watch**".
 
 Search the element or part of compound name, article title, author name or DOI in "**Generic Watch**"
