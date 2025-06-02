@@ -24,7 +24,7 @@ pip install wget
 Install the required packages: 
 ```
 import wget
-url = "[https://github.com/JinYSun/OSC-database/releases/download/v1.0.0/OSC.Database.v1.0.0.exe](https://github.com/JinYSun/OSCdatabase/releases/download/v2.0.0/deepacceptor.database.exe)"
+url = "https://github.com/JinYSun/OSCdatabase/releases/download/v2.0.0/deepacceptor.database.exe"
 ```
 
 Run: 
